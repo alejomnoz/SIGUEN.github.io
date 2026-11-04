@@ -1,0 +1,10 @@
+{
+  "name": "sigen",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión de Novedades y Minutas",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED",
+  "private": true
+}
